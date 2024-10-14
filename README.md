@@ -1,4 +1,4 @@
-Hi 👋 My name is Max Gladkikh
+Max
 =============================
 
 Python Backend-developer
@@ -6,9 +6,8 @@ Python Backend-developer
 
 I study everything related to server technologies, as well as Python and Backend in general
 
-* 🌍  I'm based in Russia
 * ✉️  You can contact me at [gla\_max@outlook.com](mailto:gla_max@outlook.com)
-* 🧠  I'm learning Django framework
+* learning Django framework
 
 ### Skills
 
