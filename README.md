@@ -1,9 +1,6 @@
 Max
 =============================
 
-Python Backend-developer
-------------------------
-
 I study everything related to server technologies, as well as Python and Backend in general
 
 * ✉️  You can contact me at [gla\_max@outlook.com](mailto:gla_max@outlook.com)
